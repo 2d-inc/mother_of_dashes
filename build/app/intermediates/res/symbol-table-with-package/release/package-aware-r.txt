@@ -1,0 +1,4 @@
+com.twodimensions.mother_of_dashes
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

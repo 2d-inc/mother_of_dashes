@@ -1,0 +1,29 @@
+{
+  "name": "mother_of_dashes",
+  "version": "1.0.0",
+  "description": "2Dimensions.com",
+  "repository": "git@github.com:2d-inc/mother_of_dashes.git",
+  "scripts": {
+    "package_lambda": "zip -r ../lambda.zip *"
+  },
+  "contributors": [
+    {
+      "name": "Luigi Rosso",
+      "email": "luigi@2dimensions.com"
+    },
+    {
+      "name": "Guido Rosso",
+      "email": "guido@2dimensions.com"
+    },
+    {
+      "name": "Umberto Sonnino",
+      "email": "umberto@2dimensions.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "get-twitter-bearer-token": "^1.0.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}

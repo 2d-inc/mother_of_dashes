@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /Users/luigirosso/Projects/mother_of_dashes/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:10:5-33:19
+MERGED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+	android:label
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:11:9-57
+activity#com.twodimensions.mother_of_dashes.MainActivity
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/luigirosso/Projects/mother_of_dashes/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/luigirosso/Projects/mother_of_dashes/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luigirosso/Projects/mother_of_dashes/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/luigirosso/Projects/mother_of_dashes/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:13-92

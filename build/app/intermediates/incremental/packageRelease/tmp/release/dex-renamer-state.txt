@@ -1,0 +1,4 @@
+#Tue Jun 25 21:18:35 PDT 2019
+base.0=/Users/luigirosso/Projects/mother_of_dashes/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
